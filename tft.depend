@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1711033015 source:c:\users\alvar\onedrive\documentos\tf1\tft\tft\main.cpp
+	<iostream>
+	"Cliente.h"
+	"Fecha.h"
+	"Pago.h"
+	"Prestamo.h"
+
+1710901135 c:\users\alvar\onedrive\documentos\tf1\tft\tft\cliente.h
+
+1710901915 c:\users\alvar\onedrive\documentos\tf1\tft\tft\fecha.h
+
+1710903861 c:\users\alvar\onedrive\documentos\tf1\tft\tft\pago.h
+	"Fecha.h"
+
+1711033015 c:\users\alvar\onedrive\documentos\tf1\tft\tft\prestamo.h
+
+1711033144 source:c:\users\alvar\onedrive\documentos\tft\tft\main.cpp
+	<iostream>
+	"Cliente.h"
+	"Fecha.h"
+	"Pago.h"
+	"Prestamo.h"
+
+1711057359 c:\users\alvar\onedrive\documentos\tft\tft\cliente.h
+	<iostream>
+
+1710901915 c:\users\alvar\onedrive\documentos\tft\tft\fecha.h
+
+1710903861 c:\users\alvar\onedrive\documentos\tft\tft\pago.h
+	"Fecha.h"
+
+1711033015 c:\users\alvar\onedrive\documentos\tft\tft\prestamo.h
+
+1711056836 source:c:\users\alvar\onedrive\documentos\tft\tft\cliente.cpp
+
